@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "WAVFileReader", "WAVFileReader\WAVFileReader.fsproj", "{28B4060D-E76B-4EF5-AD1C-508CF5C37F22}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "WAVFileReaderTest", "WAVFileReaderTest\WAVFileReaderTest.fsproj", "{39134485-E488-4CD5-B41D-7323CD6B4C67}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{28B4060D-E76B-4EF5-AD1C-508CF5C37F22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28B4060D-E76B-4EF5-AD1C-508CF5C37F22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28B4060D-E76B-4EF5-AD1C-508CF5C37F22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28B4060D-E76B-4EF5-AD1C-508CF5C37F22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39134485-E488-4CD5-B41D-7323CD6B4C67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39134485-E488-4CD5-B41D-7323CD6B4C67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39134485-E488-4CD5-B41D-7323CD6B4C67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39134485-E488-4CD5-B41D-7323CD6B4C67}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5B176AC7-3DE1-403F-BDB4-C927CA3B30EA}
+	EndGlobalSection
+EndGlobal
